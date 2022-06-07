@@ -41,4 +41,106 @@ p {
   background-color: blue;
 }
 
+.blueExample3 {
+  width: 80px;
+  background-color: blue;
+}
+
+.redExample3 {
+  width: 80px;
+  background-color: red;
+}
+
 /* TODO: Add CSS for the rest of your solution below */
+.row3 {
+  display: flex;
+  justify-content: space-between;
+}
+.blueExample4 {
+  width: 80px;
+  background-color: blue;
+}
+
+.redExample4 {
+  flex: 1;
+  background-color: red;
+}
+
+.row4 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.redExample5 {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+
+.row5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row6 {
+  display: flex;
+  height: 60px;
+  background-color: red;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+.blueExample6 {
+  width: 50px;
+  background-color: blue;
+}
+
+.row7{
+  display: flex;
+  justify-content: space-between;
+}
+
+.blue-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.blueExample7 {
+  display: flex;
+  height: 10px;
+  width: auto;
+
+  background-color: blue;
+}
+
+.redExample7 {
+  width: 40px;
+  background-color: red;
+}
+
+.row8 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yellowExample8 {
+  background-color: yellow;
+  width: 30px;
+}
+
+.row9 {
+  display: flex;
+  height: 60px;
+  background-color: yellow;
+  margin-bottom: 20px;
+  justify-content: space-around;
+}
+
+.greenExample9 {
+  background-color: green;
+  width: 30px;
+}
+
+
